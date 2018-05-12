@@ -22,3 +22,5 @@
 hs_err_pid*
 /Spring4MVCHelloWorldRestService/target
 /jacson-databind-json/target
+
+/spring-rest-hello/target

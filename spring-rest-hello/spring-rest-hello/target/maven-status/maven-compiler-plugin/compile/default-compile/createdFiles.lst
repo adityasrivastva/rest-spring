@@ -1,0 +1,5 @@
+com\aditya\techhunt\config\AppConfig.class
+com\aditya\techhunt\config\MyWebConfig.class
+com\aditya\techhunt\rest\StudentRestController.class
+com\aditya\techhunt\entity\Student.class
+com\aditya\techhunt\rest\DemoRestController.class
